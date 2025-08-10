@@ -252,8 +252,44 @@
   .top-5 {
     top: calc(var(--spacing) * 5);
   }
+  .top-5\.5 {
+    top: calc(var(--spacing) * 5.5);
+  }
+  .top-6 {
+    top: calc(var(--spacing) * 6);
+  }
+  .top-10 {
+    top: calc(var(--spacing) * 10);
+  }
+  .top-15 {
+    top: calc(var(--spacing) * 15);
+  }
+  .top-20 {
+    top: calc(var(--spacing) * 20);
+  }
   .right-5 {
     right: calc(var(--spacing) * 5);
+  }
+  .right-7 {
+    right: calc(var(--spacing) * 7);
+  }
+  .right-8 {
+    right: calc(var(--spacing) * 8);
+  }
+  .right-25 {
+    right: calc(var(--spacing) * 25);
+  }
+  .right-26 {
+    right: calc(var(--spacing) * 26);
+  }
+  .right-27 {
+    right: calc(var(--spacing) * 27);
+  }
+  .right-28 {
+    right: calc(var(--spacing) * 28);
+  }
+  .right-30 {
+    right: calc(var(--spacing) * 30);
   }
   .bottom-8 {
     bottom: calc(var(--spacing) * 8);
