@@ -5,7 +5,7 @@ export const AboutMe = () => {
                 <div className="space-y-6">
                     <h2 className="text-3xl font-bold tracking-tight">Sobre mí</h2>
                     <p className="text-muted-foreground">
-                        Soy un desarrollador web con experiencia en crear sitios web atractivos y funcionales.
+                        queloque
                     </p>
                 </div>
             </div>
