@@ -12,7 +12,7 @@ export const HeroSection = () => {
                     </h1>
 
                     <p className="text-sm md:text-base text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-4"> 
-                        Soy desarrollador de web trainee en constante aprendizaje, 
+                        Soy desarrollador de web aprendiz en constante aprendizaje, 
                         construyendo proyectos con tecnologías como React, Next.js, Tailwind CSS y Prisma. 
                         En este portafolio, comparto los proyectos que he realizado.
                     </p>

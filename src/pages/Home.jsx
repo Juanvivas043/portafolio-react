@@ -2,7 +2,9 @@ import { StarBackground } from "@/components/StarBackground"
 import { ThemeToggle } from "@/components/ThemeToggle"
 import { Navbar } from "@/components/Navbar"
 import { HeroSection } from "@/components/HeroSection"
-import { AboutMe } from "@/components/AboutMe"
+import { AboutSection } from "@/components/AboutSection"
+import { SkillSection } from "@/components/SkillSection"
+
 
 export const Home = () => {
   return (
@@ -15,7 +17,8 @@ export const Home = () => {
 
         <main>
           <HeroSection/>
-          <AboutMe/>
+          <AboutSection/>
+          <SkillSection/>
         </main>
     </div>
   )

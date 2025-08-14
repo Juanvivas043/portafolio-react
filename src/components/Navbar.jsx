@@ -9,19 +9,19 @@ const navItems = [
         href: '#hero'
     },
     {
-        name: 'About',
+        name: 'Sobre Mi',
         href: '#about'
     },
     {
-        name: 'Skills',
+        name: 'Habilidades',
         href: '#skills'
     },
     {
-        name: 'Projects',
+        name: 'Proyectos',
         href: '#projects'
     },
     {
-        name: 'Contact',
+        name: 'Contacto',
         href: '#contact'
     }
 ]
