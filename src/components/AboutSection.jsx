@@ -26,7 +26,7 @@ export const AboutSection = () => {
                         </p>
 
                         <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
-                            <a href="#contat" className="cosmic-button">
+                            <a href="#contact" className="cosmic-button">
                                 Contáctame
                             </a>
                             <a href="../assets/CV Juan.pdf.pdf" target="_blank" 
