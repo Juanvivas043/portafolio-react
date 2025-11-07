@@ -3,7 +3,7 @@ import { useState } from 'react'
 const skills = [
   {
     name: 'HTML/CSS',
-    level: 60,
+    level: 80,
     category: 'frontend',
   },
   {
@@ -13,7 +13,7 @@ const skills = [
   },
   {
     name: 'React',
-    level: 50,
+    level: 60,
     category: 'frontend',
   },
   {
@@ -37,8 +37,8 @@ const skills = [
     category: 'backend',
   },
   {
-    name: 'Prisma',
-    level: 10,
+    name: 'Supabase',
+    level: 60,
     category: 'backend',
   },
   {

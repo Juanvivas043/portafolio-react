@@ -11,11 +11,11 @@ const projects = [
   },
   {
     id: 2,
-    title: "Carrito",
-    description: "Proyecto de un carrito de compras usando react",
-    image:"/projects/Carrito.png",
-    tags: ["React"],
-    link: "https://carrito-react-iota.vercel.app/",
+    title: "App de citas",
+    description: "Proyecto de una app de citas usando react",
+    image:"/projects/Appcitas.png",
+    tags: ["React", "Tailwind", "Next.js", "Supabase"],
+    link: "https://tinder-clone-red-rho.vercel.app/",
   },
   {
     id: 3,
